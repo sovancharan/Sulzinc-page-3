@@ -1,0 +1,279 @@
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.header-main-div{
+    background-image: url('../img/Fondo.png');
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 15rem;
+}
+
+.logo-img{
+    width: 9rem ;
+}
+.Dondo-Comparar {
+    width: 36%;
+}
+.Dondo-Comparar  li a{
+    text-decoration: none;
+    
+}
+.navbar-btn-leermas{
+    font: normal normal 600 1rem Poppins;
+
+color: #383838;
+text-transform: uppercase;
+opacity: 1;
+}
+.medecine-img {
+    width: 45rem;
+    left: 38rem;
+    top: 11.3rem;
+}
+.dot-img {
+    left: 7rem;
+    width: 10rem;
+    top: 6.5rem;
+}
+
+.violate-btn{
+    background: transparent linear-gradient(90deg, #863398 0%, #BC36D9 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 20px #86339883;
+    border-radius: 38px;
+    opacity: 1;
+    padding: 0.7rem;
+}
+.orange-btn{
+    background: transparent linear-gradient(90deg, #F1813A 0%, #E86E36 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 20px #F1813A65;
+border-radius: 38px;
+padding: 0.7rem;
+opacity: 1;
+}
+.violate-btn:hover{
+    background: linear-gradient(to right, #e2cfe7,  #c823ed);
+    color: #863398 !important;
+}
+.orange-btn:hover{
+    color: #E86E36 !important;
+    background: linear-gradient(to right,#efe0d8,#E86E36 );
+}
+.sub-heading{
+    font: normal normal bold 26px/ Poppins;
+    padding-top: 1.9rem;
+
+color: #F1813A;
+}
+.btn{
+    border: none;
+}
+.sulzinc-col{
+    padding-top: 4rem;
+    padding-left: 5rem;
+}
+.navbar-logo{
+    padding-left: 5rem;
+}
+.header-btn{
+    padding-left: 5rem;
+    padding-top: 3rem; 
+}
+.deficiencia-left-col{
+    padding-left: 7rem;
+}
+.deficiencia-right-col{
+    padding-left: 7rem;
+    padding-right: 3rem;
+    padding-top: 2rem;
+}
+
+.zincpara-left-col{
+
+    padding-left: 4.8rem;
+    
+
+}
+.zincpara-left-col{
+    padding-right: 7rem;
+    padding-top: 2rem;
+}
+
+.zincpara-img-main-div{
+    width: 90%;
+}
+.sulzinc-dosis-main-div{
+    background-image: url('../img/Fondo\ Morado\ Claro.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 15rem;
+    padding-bottom: 8rem;
+}
+.violate-sub-heading{
+    color: #863398;
+}
+.sulzinc-dosis-left-col{
+    padding-left: 9rem;
+    padding-top: 2rem;
+}
+.sulzinc-dosis-right-col{
+padding-left: 8rem;
+}
+.sulzinc-dosis-main-div{
+    margin-top: -4rem;
+    z-index: -1;
+}
+.banner-ruta-para-main-div{
+    background-image: url(../img/Fondo\ Morado2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 8rem;
+    padding-top: 7rem;
+}
+.banner-ruta-para-sub-heading{
+    padding-left: 7rem;
+    padding-top: 0.5rem;
+}
+.banner-ruta-para-para{
+    padding-left: 5rem;
+    padding-right: 4rem;
+}
+.banner-ruta-para-btn{
+    padding-left: 4.7rem;
+    padding-top: 4rem;
+}
+
+.map{
+    box-shadow: 0px 10px 99px #8633982B;
+  
+    opacity: 1;
+  }
+  .menu-items{
+    font: normal normal normal 0.9rem Poppins;
+    
+    color: #0F0F0F;
+    opacity: 1; 
+  }
+  .acerca-para{
+    font: normal normal normal 0.8rem Poppins;
+    
+    color: #363636;
+  }
+  .Acrca-link{
+      color: #BC36D9;
+      text-decoration: underline #BC36D9;
+  }
+  .aviso-underline{
+      text-decoration: underline white;
+     
+  }
+  .footer{
+      font-size: 0.8rem;
+      background-color: #863398;
+  }
+
+  .menu-main-div{
+    background: transparent url('../img/Footer\ Fondo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.menu-heading{
+    color: blueviolet;
+}
+ul li a{
+    text-decoration: none !important ;
+    color: black;
+
+    
+}
+ul li{
+    list-style: none    ;
+}
+.footer{
+    background-color: blueviolet;
+}
+.blueviolate-color{
+    color: blueviolet;
+}
+.pediatrico-third-col{
+    z-index: 4;
+}
+.pediatrico-img{
+    top:-5rem
+}
+.SulZinc-Pediátrico-col{
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 99px #8633982B;
+    border-radius: 23px !important;
+    opacity: 1;
+
+    margin-bottom: 7rem !important;
+
+
+}
+.btn{
+    border: none;
+}
+
+.blog-col{
+    border-top-left-radius: 20rem;
+    border-top-right-radius:20rem ;
+}
+
+.icon{
+   
+}
+
+/* .nav-link:hover{
+    border-bottom: 2px solid #E86E36;
+} */
+
+.blog-col{
+    box-shadow: 0px 10px 99px #8633982B;
+    border-radius: 23px;
+}
+
+.blog-input-section {
+    background-color: #F1813A;
+    border-radius: 20px;
+}
+.donde-footer{
+    border-bottom: 2px solid #F1813A;
+}
+
+.social-link{
+ background-color: #863398;
+ color: white;
+ padding: 0.5rem 0.5rem;
+ padding-left: 0.6rem;
+ margin-right: 0.8rem;
+ border-radius: 20px;
+}
+.social-link-main-div{
+    padding-bottom: 3rem;
+}
+.social-link:hover{
+    cursor: pointer;
+}
+.input-para{
+    padding-right: 4rem;
+}
+.form-control{
+    border-radius:8px;
+}
+.map-main-div{
+    padding-bottom: 8rem;
+}
+.map-div{
+    box-shadow: 0px 10px 99px #8633982B;
+    border: #0F0F0F;
+   
+}
+.tips-body{
+    
+}
