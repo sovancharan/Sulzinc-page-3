@@ -221,7 +221,7 @@
 
 }
 .blog-input-section {
-  margin-left: 0rem !important;
+  margin: 0rem !important;
 }
 
  }
@@ -237,6 +237,9 @@
 .blog-col{
   margin:  0 !important;
 }
+.Acrca-link {
+  word-break: break-all;
+}
 
 }
 
@@ -247,18 +250,21 @@
 }
   }
 
-  @media (min-width: 1100px) and (max-width: 1338px) { 
-    .medecine-img {
-      width: 44rem !important;
-      left: 26rem !important;
-      top: 13.3rem !important;
-  }
-  }
+ 
+  
   @media (min-width: 1020px) and (max-width: 1339px) { 
     .medecine-img {
       width: 44rem !important;
       left: 35rem !important;
       top: 11.3rem !important;
+  }
+  }
+ 
+  @media (min-width: 1100px) and (max-width: 1338px) { 
+    .medecine-img {
+      width: 44rem !important;
+      left: 26rem !important;
+      top: 13.3rem !important;
   }
   }
 
@@ -269,12 +275,28 @@
       top: 13.3rem !important;
   }
   }
+  @media (min-width: 1000px) and (max-width: 1100px) { 
+    .medecine-img {
+      width: 37rem !important;
+      left: 25rem !important;
+      top: 14.3rem !important;
+  }
+  }
    @media (min-width: 800px) and (max-width:900px) {
     .medecine-img {
       width: 28rem !important;
       left: 21rem !important;
       top: 17.6rem !important;
     }
+  }
+  @media (min-width: 900px) and (max-width:1000px) {
+
+    .medecine-img {
+      width: 31rem !important;
+      left: 25rem !important;
+      top: 15.3rem !important;
+  }
+
   }
 
   @media (min-width: 768px) and (max-width:800px) { 
