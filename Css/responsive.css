@@ -2,6 +2,16 @@
 @media (max-width: 1199.98px) {  }
 
 @media only screen and (max-width: 992px) {
+  #navbarNav {
+    position: absolute;
+    left: 0;
+    background: #fff;
+    padding: 1rem;
+    width: 100%;
+    top: 84%;
+    z-index: 999;
+    transition: 0.5s;
+}
   .dono-comparar-outer{
       display: none !important;
 
